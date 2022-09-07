@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b3c3a0ba-4ef7-4582-877d-5b6edf7fb42d": {
+      "ProjectGuid": "b3c3a0ba-4ef7-4582-877d-5b6edf7fb42d",
+      "DisplayName": "Generics",
+      "ColorIndex": 0
+    },
+    "fa2ce754-4869-43e7-bbda-af55e69f325e": {
+      "ProjectGuid": "fa2ce754-4869-43e7-bbda-af55e69f325e",
+      "DisplayName": "out Ref",
+      "ColorIndex": 1
+    },
+    "0b1f20df-6e44-46be-b85e-518ca0e21b5f": {
+      "ProjectGuid": "0b1f20df-6e44-46be-b85e-518ca0e21b5f",
+      "DisplayName": "MethodHiding",
+      "ColorIndex": 2
+    },
+    "82406bf0-79cd-4eea-ac49-c66a8992c1c6": {
+      "ProjectGuid": "82406bf0-79cd-4eea-ac49-c66a8992c1c6",
+      "DisplayName": "Overriding",
+      "ColorIndex": 3
+    },
+    "edd26471-c0e5-405e-ade7-7b16a8b72fce": {
+      "ProjectGuid": "edd26471-c0e5-405e-ade7-7b16a8b72fce",
+      "DisplayName": "StringAndStringBuilderMutableAndImmutable",
+      "ColorIndex": 4
+    },
+    "052d3e40-541e-4d39-a98d-a12e92d4e2ad": {
+      "ProjectGuid": "052d3e40-541e-4d39-a98d-a12e92d4e2ad",
+      "DisplayName": "SolidOpenClosedPrinciple",
+      "ColorIndex": 5
+    },
+    "b54eed7d-37e9-488c-a2c6-c1425300a0a4": {
+      "ProjectGuid": "b54eed7d-37e9-488c-a2c6-c1425300a0a4",
+      "DisplayName": "SOLID_PRINCIPLES.LSP",
+      "ColorIndex": 6
+    },
+    "39af0f76-08e5-4f91-9feb-249ec1fabcca": {
+      "ProjectGuid": "39af0f76-08e5-4f91-9feb-249ec1fabcca",
+      "DisplayName": "AsyncvsThread",
+      "ColorIndex": 7
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 8
+}
