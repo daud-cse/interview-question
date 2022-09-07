@@ -12,6 +12,7 @@ class Program
         //bool strequal = CalculatorNonGeneric.AreEqual("Interview", "Happy");
         Console.WriteLine("Non Generic:"+ equal);
 
+
         //Solve boxing
         bool equalboxing = CalculatorGenericSolveByUseBoxing.AreEqual(4, 4);
         bool strequalboxing = CalculatorGenericSolveByUseBoxing.AreEqual("Interview", "Happy");
