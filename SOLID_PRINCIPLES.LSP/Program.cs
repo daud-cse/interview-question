@@ -10,21 +10,21 @@ namespace SOLID_PRINCIPLES.LSP
         {
             Apple apple = new Orange();
             Console.WriteLine(apple.GetColor());
-        //Apple apple1 = new Apple();
-        //Console.WriteLine(apple1.GetColor());
+            Apple apple1 = new Apple();
+            Console.WriteLine(apple1.GetColor());
 
-        //OrangeLsp fruit1 = new OrangeLsp();
-        //Console.WriteLine(fruit1.GetColor());
-        //AppleLsp fruit2 = new AppleLsp();
-        //Console.WriteLine(fruit2.GetColor());
+            //OrangeLsp fruit1 = new OrangeLsp();
+            //Console.WriteLine(fruit1.GetColor());
+            //AppleLsp fruit2 = new AppleLsp();
+            //Console.WriteLine(fruit2.GetColor());
 
-           ////https://code-maze.com/liskov-substitution-principle/
-           // var numbers = new int[] { 5, 7, 9, 8, 1, 6, 4 };
-           // SumCalculatorNONLSP sum = new SumCalculatorNONLSP(numbers);
-           // Console.WriteLine($"The sum of all the numbers: {sum.Calculate()}");
-           // Console.WriteLine();
-           // SumCalculatorNONLSP evenSum = new EvenNumbersSumCalculator(numbers);
-           // Console.WriteLine($"The sum of all the even numbers: {evenSum.Calculate()}");
+            ////https://code-maze.com/liskov-substitution-principle/
+            // var numbers = new int[] { 5, 7, 9, 8, 1, 6, 4 };
+            // SumCalculatorNONLSP sum = new SumCalculatorNONLSP(numbers);
+            // Console.WriteLine($"The sum of all the numbers: {sum.Calculate()}");
+            // Console.WriteLine();
+            // SumCalculatorNONLSP evenSum = new EvenNumbersSumCalculator(numbers);
+            // Console.WriteLine($"The sum of all the even numbers: {evenSum.Calculate()}");
 
             //https://code-maze.com/liskov-substitution-principle/
             var numbers = new int[] { 5, 7, 9, 8, 1, 6, 4 };

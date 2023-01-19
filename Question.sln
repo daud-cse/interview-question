@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SolidOpenClosedPrinciple", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SOLID_PRINCIPLES.LSP", "SOLID_PRINCIPLES.LSP\SOLID_PRINCIPLES.LSP.csproj", "{B54EED7D-37E9-488C-A2C6-C1425300A0A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncvsThread", "AsyncvsThread\AsyncvsThread.csproj", "{39AF0F76-08E5-4F91-9FEB-249EC1FABCCA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsyncvsThread", "AsyncvsThread\AsyncvsThread.csproj", "{39AF0F76-08E5-4F91-9FEB-249EC1FABCCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "What_is_Lambda_expressions_ Action_ Func_and_Predicate", "What_is_Lambda_expressions_ Action_ Func_and_Predicate\What_is_Lambda_expressions_ Action_ Func_and_Predicate.csproj", "{8E73FC01-2422-4030-9701-FB8F546ABF55}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{39AF0F76-08E5-4F91-9FEB-249EC1FABCCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39AF0F76-08E5-4F91-9FEB-249EC1FABCCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39AF0F76-08E5-4F91-9FEB-249EC1FABCCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E73FC01-2422-4030-9701-FB8F546ABF55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E73FC01-2422-4030-9701-FB8F546ABF55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E73FC01-2422-4030-9701-FB8F546ABF55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E73FC01-2422-4030-9701-FB8F546ABF55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
